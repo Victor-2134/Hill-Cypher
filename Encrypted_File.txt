@@ -1,6 +1,6 @@
-Total char used: 73, as in next line:
+Total char used: 73, as in next line (Including '\n'):
 0123456789 ABCDEFGHIJKLMNOPQRSTUVWXYZ,'.!?*"abcdefghijklmnopqrstuvwxyz-;
-Encryption matrix  for 18BEC1271 is
+Encryption matrix is
 [[4, 14, 53, 44], [71, 40, 24, 15], [1, 60, 36, 22], [1, 59, 39, 14]]
 Encrypted contents starts from next line:
 .'w1MWuO3p'MBq-!Le59YY0ejfQjS"b'QmGpqVKIZG?Lw"tL 8s?ZF'3F!CYAsAN.8D dpp8tZd??wcBkf-XCwcLKOgY75c-q?M*O
