@@ -1,0 +1,75 @@
+Total char used: 73, as in next line:
+0123456789 ABCDEFGHIJKLMNOPQRSTUVWXYZ,'.!?*"abcdefghijklmnopqrstuvwxyz-;
+Encryption matrix  for 18BEC1271 is
+[[4, 14, 53, 44], [71, 40, 24, 15], [1, 60, 36, 22], [1, 59, 39, 14]]
+Encrypted contents starts from next line:
+.'w1MWuO3p'MBq-!Le59YY0ejfQjS"b'QmGpqVKIZG?Lw"tL 8s?ZF'3F!CYAsAN.8D dpp8tZd??wcBkf-XCwcLKOgY75c-q?M*O
+A! a8jh Ye.CsF70mzv!RpD!;WBIvFl!LY84Xd
+duZtrm2UB;B6NNDrKBqxQ4hp 8qI2o96v3DTAf?hWUOh1whP48lAsAN4AW*qzTWreGBG0sj
+t
+tSqabYpj'9w?HJ;kRQJhJ5WB73p'MdyAofASSV9HZFN4d1YRil!LYxUBy*Y5W3q8Vl!LYFWJ.tZd??wcBr
+uXLe59YY0e6FOeawP1SNoIipD5PXGfboMEtTIll!LYeFOng9w1Q8j8
+56*U-b94G.Yy10.rXybopWgdb"Sv1mkI;5pAPYv8J3ujEx?oyEpAsANnaMSVA"!T2JAl!LY,S*g5uyBbX !zDcC-33dSkPU0dqEe!a!TTTWOA,Q9UIP.b'h'M
+7"t'qAsANEW293 4EvlzLId2!EzY'84XdrXybGbAP6NNDe;hWchw'qYJ'
+s*KFbSeu2R*IOJfAsAN6EXZEN,U'g6dH2Fid7'CC4Nk7oip'7mu"u.,?oe7rArYGO4EZx
+?CmO
+mQ.-A;IfSAPOl!LYj"*WXWh,qMtA.6!9?7EppZ
+q'.C;2SI2jpCCrOQ8qpi86NND3V
+yr?jI75in4U*UpYM6l!LYIoTr72J;T?I3rbfO"tuE-xVMWv6"z;wS84Xd3oU;F-ZI84XdmMP
+'g.XHda2;RLBjYn8l!LYJ2XvjzYN.0"
+60mkO6Ca6r*'0ZTr4YfQY?we"u.,82D.dwaDTuuW84Xd49RU'7muAsANuot8?7EpVLf5W29;d,
+c84XdpqxwmQ.-84XdB!5QDLH9cfciZv5JEoKLtefWl!LY5 rVtoxoGsLF*lxU-l6KdSB4
+ByOlSbheqIwjbl7uP4 "u.,,tzVkeb,v!Rp-xVMAsANhVJdD4!3wUKyp!7;1!;tgM7o.-*Bv!RpJf
+8.'w19'4cugNj9822'h0PV9!d'7muLlgUl!LYV,TXtiMxV0LtwE3VMX'3QLS*Y'0yz5ob1h-*TtalhY0d**y91oSWJf
+8TbG
+5U1BlZhSl!LY5t1X!9uMzF**z!'U5!Wolfbevnu1BKdp2Jvk84XdWQc"kt2GN?fCKOgY's.RbGA3f,m7l!LYKPAY"u.,ndcZRuJf *FZ*lxUSjvE7 g8S-B?zjCL7Ml!3TwZLRC?k
+PC2;nb9p"WjYn8l!LYUg7.csyo,.UlwhZ62
+F52F62"u.,VR5kK69Cv;rdo;,Qk0NFg
+wT3BfbqEVqjYn8l!LYwfWNs3pKufE5NECZNSSc72Th"u.,?oe7J0UnqEVqFPI3oAUAS5vM-Fjfi
+2Pl!LYDDFDujttA6GwRdJ7MF*XukT?hG*B9UpP "OE34zQIoTrS3F27V4,DLH9EvXY30Hwl!LYmRGeJAzd;1d UeB2ZSU1yy1OgR;2ukquto-JiYo1!IBc
+IdjDLH9H.y0Uk'Behd AsAN,4CFyoCzxdl0y,D"xoiOxk1.BMqOa0gV0SjwxsQZX4N.f2qX
+
+..Uz2hFHt803RXVxyAl!LYrAR";dG6*;sUrWmcj!LzoIsGk;VBVOI6mYfXpZ
+qy.xqx2G!
+bw'q;kVJl9ETntSZ7;Ll!LY3TwZ6;Cb51;htdh85
+.Y13YE1h-*pBZ4 m ;q5iJaBSkz5obqMtAaFenjPvL49kCl!LYgoxHHtQdRA,-Z.dhJ'P;lU;jP67
+SKM,Jhf,Uo7c;RLBWzHc!09q-xVMby!UwNq2l!LY4Ar*rhMI?,Vm
+xeo84Xd-KSCol"!?WGVvICrI4jf8i5ZIRF-POPLL;QCIno GuFdoLn l!LY2Jvkwu4c2Jvkk3AXd7JQz
+8hgDw,aFJV0BGTFnZCHO-bIuZMh5JnSqAlgK8dPeOgl!LY6.WIN-YTGgW,Hda2j,2O0Ds gK8d
+xeoTB
+VbZ;59l!24dIIoIsGj59KhU1rVxyAl!LYoWrJxJ' pZ
+qcymj?-?KS54WUMKCp6,g84Xddzg;ETxxWsYZqb6,y10.yWIKQ!R0'b*Vl!LYhG*By10. Q3i8i5ZTa!MLPDBA'mzy10.84Xd7Y26Ns4NA.5Yu13u!SEpResoUmYUFGwGl!LY cHdnFaFIiLs"u.,sUN9ggriv8JkdHZ1IhurlHih',Vxjt"cqCSU"u.,sjQSl!LY4Ar*Y
+ NSNoIIoTrBkj82ln5Ns4N6NNDeKd'TYUD'7muceb18l07hq0bNg"LHeKhAsANhVJd0YzrpZ
+qRVdXL4DRb0WLF9uXoIsGX81FpbXa7s';;,1bV MZY
+?AK;GKpYUJ,eJel!LYmRGesG2U5xMdK3HHIoTrDU?hDqT,NWx5.xXJ;O7*mQ.-qS6
+V3NVTYgZ'.C;AsANuot8FbSeA*'lhG*BhG0BYw"TUZGzqb6,mQ.-7kbvfy-RCdoMV000Ajq*EtIcLnnhj2f.l!LYZgdoPs4XANLdtB'ez5obqMtAaEiFuD.WJwW.RZ,y"u.,DU?hRDXGi4!DV!fLttEznb?Ol!LY8Oja"u.,NN3oBBzZGsLFUeB2WJkSekYkp6,gB0c7hkRIrrF5rOQ8h W0hCKJf,m7l!LYH2FiQ!R0pZ
+q z'EFJhZrijGCkYvDqeM*OEhfGoV5;zmqEVqwE3VRu,dQLS*un49l!LYXfc;plyI"u.,C2XHVvUwKXY7yjR5hU1r-a9UWv7Y?y2z2YsF'7mu"u.,V2l1Z4E42mapl!LYJf
+884XdEDw0hY0d;b7PCeBPhG*BdDzq13g1HSAk?NCP-HSVmQ.-84Xdb Tc L?'l!LYaXt8;.6fpZ
+q0YzrVcodQ1D,5V
+4p6,gXJ3c25K;IoTrkAH?wUKy8Z?.9p"WjYn8l!LYCAbgyl!dJf
+8.'w1MWuOhG*BrijGnzn6!M*vp6j?HnGqeRMH*efdD!;WX UKjYn8l!LYHD.h;tv9mQ.-84Xdf.JGW1.Ib-zQ;RLBMkR.?fWLmp1Y'7mueP m,!cbyy1OvSqAl!LYTa,RbpMQdK-UHda2;RLBVBYHkeDGINGNJf
+884Xd2XceUx7zATeQW
+wRaoxuAsAN5C-.Wy9TCmSAXi*AGkCXGnukPfIjLnnhAjq*MLEdhh;WhG*BiPb1enrYEz2l'.C;AsANKb5uiTShR-cAiYXDjpCCtcTwZoRRBBzZ!F'Kp6,g84XdBuaOf1aWJf
+8ds!'4I?vPeOgl!LYzSoe4SKSFI7JJf
+884XdH2y;Hda2;RLBnikG CLyDLH9"u.,4Ar*XhVlaZ67l!LY'MB4?-?KWMHNfy-R!FZKvk,c..zuf1aWaGTf"u.,F3mjM1H0iJRE-xVM"u.,sjQSl!LY2
+F5YxsCbx*JRJsF7ke,84XdI.i k* h6I8Qr*QoJf
+884XdrXybdE!HUo7cuw;hJExHl!LY84XdjwEZO7uLaMc,5olF;b7PCeBPF9uX*6WMSZLNrKBnGRgOQoXT0hkJep
+El!LYgM7o.-*Bv!RpqCSU"u.,b8v,Kl'S"u.,SQfo.iZny10.IE3xKSEKNOpMKtu0Q5*Eqy4Rl!LY6C10"GeHUeB2Rz9qDLH9"u.,NN3ocahzowe4AcXtxH m*oflA2?mcpN* LOEf7ELl!LYD!;WX UKwE3VUXsQzHZvn"m8"r
+ ejsiz98UufE5aulpcmqBPoUpHSAkpZ
+qtcTwAsANsksDL4DRb0WL!n3Y!mTxis2TqmZPH.YugoZeWj98Kl'S"u.,qCSU"uM5JiLWl8Zfr,NXAsANhVJd*6WMwE3VpH86E9sT84XdllA,PJEXBcImp cfitZ"Jf
+884XdBI;4'ID,FTP-zBp2l!LY"u.,85qczMxsVxaA6NNDwE3V2F9f9wJDmOcNKsUlFaTxEN,U1C314*sq 0A iGYVAsANhVJd*6WMrKBqxQ4hEjZAq kiq0*FSMhktO"3,3xT3KdHtdh8M9hG51;hufE5Lcful!LYBZ-.,1mQJf
+884XdFxyPmRGeFGZ"'7musVqqHrr-wF;;0YzrTB
+VC4Nk?D-CJExHl!LYn5*vh YeZ.dhlsp?koCEj""hEA;lLoa*.vW-?OiR2jX.v.kJpZ
+qy.xqV09NIYtN9nc-l!LYE7iiN-YT59XX9tBHRuJf67lZ3VLmp6,gYV8?"u.,dDzqQA56iLV8JvHCb27MAsAN.8D N8cFznRXbr"IvI8UpkL,ioD7
+JZ-5K!9!!Iy6Cs0sOZylPht"cWY8jSyAsAN?BE43Gm8QA562bVt.L3xTQWP';WZ
+ByODH6NySR
+Td4HK--Hu"3cv2W9gDw,e jZsaBdAsAN.8D tTIll!LYXrHPg9w1Q8j8
+56*.Qn*V-dmhG*BI5ppYb*bLLF7O-A
+t;lPorhFnZHDG
+'u
+s7Ul!LYYq'ORw
+Gb6a0nLo6hG*BNe7e;s6G-33dKV7f13YETZeR9IfuXpMsxaN";bssqCSUAsAN--wt**w-PE"cZ.dh3p"BV-dmWRDkLRmpa!6hqCSUrAR";dG6GbcF*6WMTF,xjbl7qy4Rl!LY*4Ub84Xd;b7PCeBPJf
+884Xdi!!J9BeXjrCy*JY;8h.5yL6EdQvfIa.WrijGdwutZ7;Ll!LYP48lQ-?iT,."v;rd.hbjoW7soIQ3FHt8nyjvlG7ihi*h84XdrXybE? VWQ96l!LYgjiliYo1oQr
+Ug9hiyVkhxhqFsR'H;8PuNi?2y0
+fr42k0ZPioQbhCKJDqT,5O5xl!LYV,TXFQqPP48lgw2rm6nu2Jvkdw5Pe7zkD2qpkIU00Yzr58l"GM!1Y3lSCc!o72h;IJetl!LY9RJIjag4JAWL n9cZc;w,tzVrijGnzn6*w14ayutp.2mxo
+'T?W*dQvfIa.WAsANePlm8QQQQCqb84Xd4bGRu2R*HeKh;6Pimuki"7sgF-1xRAx4Kdf3l5yxjag4h5jyTQBHl!LYc0iYs,9?-wr5ZgmPr6rZ
