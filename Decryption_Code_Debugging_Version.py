@@ -69,8 +69,8 @@ def convert(x):
         DCfile.write(EnChar[i])
         
 ## Driver code
-ECfile = open("18BEC1271.enc.txt")
-DCfile = open("Dec18BEC1271.txt","w")
+ECfile = open("Encrypted_File.txt")
+DCfile = open("Decrypted.txt","w")
 char = ECfile.readlines()
 EnChar = CharList(char)
 EnMat = SetEncryptionMatrix()
