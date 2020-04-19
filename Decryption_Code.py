@@ -1,3 +1,5 @@
+## Original version done by - Vishnu Kumar a.k.a Victor_2134
+
 import numpy as np
 from numpy.linalg import inv
 np.set_printoptions(suppress=True)
@@ -74,4 +76,3 @@ DCmat = FindInverse(EnMat,len(char[1]))    # Decryption matrix = inverse of Encr
 Decrypt(char[5:])                                   #Passing lines after 5 because the encrypted file starts from line 6
 ECfile.close()
 DCfile.close()
-## Done By - T.V. Vishnu Kumar : 18BEC1271
