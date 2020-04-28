@@ -4,7 +4,7 @@ import numpy as np
 from numpy.linalg import inv
 np.set_printoptions(suppress=True)
 
-#Function to get Encryption matrix from give file
+#Function to get Encryption matrix from the given file
 def SetEncryptionMatrix():
     M = char[3].replace('[','').replace(',','').replace("'",'').replace(']','')
     M = np.fromstring(M,dtype = int,sep = ' ')
@@ -14,8 +14,8 @@ def SetEncryptionMatrix():
 
 ## Function to create a Dictionary from the given characters used for encryption
 def CharList(x):
-    Tx = x[1]       #Line in which the characters used are present
-    y = { }        # Creating a dictionary to store the characters used for encryption
+    Tx = x[1]       # Line in which the characters used are present
+    y = { }         # Creating a dictionary to store the characters used for encryption
     for i in range(len(Tx)):
         y[Tx[i]] = i         #Key - Character ; Value - Number
         y[i] = Tx[i]         #Key - Number ; Value - Character
@@ -41,26 +41,26 @@ def FindInverse(x,mod):
     y = np.mod(y,mod)
     return y.round()
 
-##  Decryption function - converts each char to their index based on their index in the given character list.
-##  then, it is grouped as blocks, determined by the encryption matrix. After grouping, the grouped matrix
-##  is passed to the convert function
+##  Decryption function - Converts each Encrypted char to int based on their index in the given character list.
+##  After convertion,they are grouped as "blocks",whose size is determined by the number of columns in the encryption matrix,
+##  and stored in a NumPy array.This matrix is passed to the convert function
 def Decrypt(x):
     c = 0       # count the characters
     k = 0       # for array index
     Block = EnMat.shape[1]
-    MulMat = np.zeros(Block,dtype = int)   # Making a empty array to store the character index from the encrypted file
-    for i in x:             # x - encrypted file ; i - individual lines in the file
-        for j in i:          # j - character in each line
+    Blocks = np.zeros(Block,dtype = int)   # Making a empty array to store the character index from the encrypted file
+    for i in x:                            # x - encrypted file ; i - individual lines in the file
+        for j in i:                        # j - character in each line
             c+=1
-            MulMat[k] = EnChar[j]       # store the character index to the multplication matrix
+            Blocks[k] = EnChar[j]          # Store the character index to the multplication matrix
             k+=1
             if c % Block == 0:
-                convert(MulMat)
+                convert(Blocks)
                 k = 0
 
-##  The block matrix passed is multiplied with the decryption matrix and the result is taken modulus of <length
-##  of the used characters>. The numbers in the result matrix is the index of the characters after decryption,
-##  therefore the respective characters are then written into the file
+##  The given block matrix is multiplied with the decryption matrix(dot product) and the result is taken modulus of
+##  <length of the used characters>. The numbers in the result matrix is the index of the characters after decryption,
+##  Hence the respective characters are then written into the file
 def convert(x):
     DCchar = (DCmat @ x) % len(char[1])
     for i in DCchar:
@@ -70,9 +70,9 @@ def convert(x):
 ECfile = open("Encrypted_File.txt")
 DCfile = open("Decrypted.txt","w")
 char = ECfile.readlines()
-EnChar = CharList(char)
+EnChar = CharList(char)                    # Dictionary where the characters used for encryption is stored
 EnMat = SetEncryptionMatrix()
 DCmat = FindInverse(EnMat,len(char[1]))    # Decryption matrix = inverse of Encryption Matrix 
-Decrypt(char[5:])                                   #Passing lines after 5 because the encrypted file starts from line 6
+Decrypt(char[5:])                          # Passing lines after 5 because the encrypted file starts from line 6
 ECfile.close()
 DCfile.close()
